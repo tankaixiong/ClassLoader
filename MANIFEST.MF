@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: /usr/local/server/tomcat_yzc/webapps/easy2find/WEB-INFb/slf4j-api-1.7.12.jar  
+
+
